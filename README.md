@@ -1,4 +1,4 @@
-# ctcForWhatsapp-api
+# wbs-contactDownloader-api
 API to grab data from SQL Server
 
 ### Purpose
