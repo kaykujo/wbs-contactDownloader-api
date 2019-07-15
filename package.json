@@ -1,0 +1,12 @@
+{
+  "name": "project-x-api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "seriate": "^0.8.0"
+  }
+}
